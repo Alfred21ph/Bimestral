@@ -1,0 +1,45 @@
+#body{
+    font-family:Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+#cabecalho{
+    color: rgb(255, 255, 255);
+    text-align: center; 
+    padding: 1.5em 0;
+    background-image: url(/img/ae6abc8f7e6207434a22702a1de49be3.jpg);
+    
+}
+#menu{ 
+    background-color: #000000;
+    padding: 1.5em;
+    text-align: center;}
+
+.link{
+    text-decoration: none; 
+    margin: 0 15px;
+    color: rgb(253, 252, 249);
+    font-size: 20px;
+    
+} 
+ .link:hover{
+    color: #fff644;
+ }
+ #principal{
+    padding: 2em;
+    text-align: center;
+}
+#mm{
+    color: #000000;
+    border-bottom-color: crimson;
+    
+}
+
+
+
+
+    
+   
+    
+    
